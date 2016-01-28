@@ -107,6 +107,7 @@
 
 -(void)viewDidAppear:(BOOL)animated
 {
+    
         sevenlabel.frame = CGRectMake(sevenlabel.frame.origin.x-8, sevenlabel.frame.origin.y, sevenlabel.frame.size.width, sevenlabel.frame.size.height);
 }
 
